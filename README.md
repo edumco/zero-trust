@@ -1,45 +1,13 @@
-# The Template Manifesto
+# Bem-vindos
 
-Start a project from scratch although important for learning purposes it is not a must when we need to quickly start a project.
+## O que é este blog?
 
-## The goal
+Esta página foi criada para que pessoas comuns possam aprender, passo a passo, como proteger: contas, nossos dispositivos e nossos dados pessoais.
 
-To find, list and advertise templates and boilerplates for software projects.
+Não vou usar termos complicados nem exigir que você se torne um técnico. Cada publicação será uma pequena conquista: uma senha mais forte hoje, um ajuste de privacidade amanhã, um hábito mais seguro na semana que vem.
 
-### Find
+## Por que isso importa?
 
-There is no specific search for templates in github, so the best way of doing it is search for well know keywords and look for the most used or starred projects.
+Seus dados digitais valem muito — muito mais do que você imagina: um e-mail pode abrir a porta para o seu banco, uma senha repetida em vários sites pode comprometer tudo de uma só vez, uma foto compartilhada sem cuidado pode expor detalhes da sua vida que não gostaria que estranhos soubessem.
 
-Even filtering out, sometimes the number of results makes impossible to check every result. If you think there is some great template you know please let us know by sending a email: <jose.eduardo.mco@gmail.com>
-
-### List
-
-Simply projects linking to their respectives repos helps litle to promote their jobs. 
-
-So we've fork the repos to add good keywords, good info, good readmes and push it back to the original repos.
-
-### Advertise
-
-We hope to extend this blog and create other ways to advertise this list of projects. If you have any idea keep in touch!
-
-## Credits 
-
-All projects are a colletive work and its crucial to give credit to all contributors even the indirect ones.
-
-Thanks to the following contributors:
-
-- [iconella](https://www.iconfinder.com/iconella) organization icon
-
-- [@orderedlist](https://github.com/orderedlist) for the greate [minimal theme](https://github.com/orderedlist/minimal).
-
-## See also
-
-- [Github Pages](https://pages.github.com/)
-
-## License
-
-This project is licensed [Creative Commons Zero v1.0 Universal](LICENSE) so you can use it anyway you want. 
-
-When using this project you are free to change the license on your own project to any license you want.
-
-Visit <https://choosealicense.com/> and learn how to choose the right license to your project.
+A boa notícia é que pequenas atitudes fazem uma enorme diferença. E é exatamente isso que vamos construir aqui: uma rotina digital mais segura, um passo de cada vez.
