@@ -11,3 +11,5 @@ Não vou usar termos complicados nem exigir que você se torne um técnico. Cada
 Seus dados digitais valem muito — muito mais do que você imagina: um e-mail pode abrir a porta para o seu banco, uma senha repetida em vários sites pode comprometer tudo de uma só vez, uma foto compartilhada sem cuidado pode expor detalhes da sua vida que não gostaria que estranhos soubessem.
 
 A boa notícia é que pequenas atitudes fazem uma enorme diferença. E é exatamente isso que vamos construir aqui: uma rotina digital mais segura, um passo de cada vez.
+
+<a href="https://www.flaticon.com/free-icons/shield" title="shield icons">Shield icons created by Freepik - Flaticon</a>
