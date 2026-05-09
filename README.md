@@ -1,3 +1,20 @@
+---
+layout: default
+title: Blog
+---
+
+## Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span>({{ post.date | date: "%B %d, %Y" }})</span>
+    </li>
+  {% endfor %}
+</ul>
+
+
 # Bem-vindos
 
 ## O que é este blog?
@@ -13,3 +30,4 @@ Seus dados digitais valem muito — muito mais do que você imagina: um e-mail p
 A boa notícia é que pequenas atitudes fazem uma enorme diferença. E é exatamente isso que vamos construir aqui: uma rotina digital mais segura, um passo de cada vez.
 
 <a href="https://www.flaticon.com/free-icons/shield" title="shield icons">Shield icons created by Freepik - Flaticon</a>
+
