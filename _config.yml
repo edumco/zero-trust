@@ -1,5 +1,49 @@
-theme: jekyll-theme-minimal
-
+# Configurrações gerais
 title: Zero Trust
-description: Segurança digital para todos. 
+description: Segurança digital para todos.
+url: "https://edumco.github.io"
+baseurl: "/zero-trust"
+timezone: "America/Recife"
+lang: pt-BR
+author: José Eduardo Montenegro
+      
+# Definição do tema
+# theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Configurações do tema
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: assets/img/security.png
+github_username: edumco
+search: true
+breadcrumbs: true
+date_format: "%Y-%m-%d"
+enable_copy_code_button: true
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+
+
+# Configuração da Paginação
+paginate: 5
+paginate_path: "/page:num/"
+
+include:
+  - _pages
+
+github:
+  repository_url: "https://github.com/edumco/zero-trust"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache

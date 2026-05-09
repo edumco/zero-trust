@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 # Bem Vindos
 
 ## O que é este blog?
