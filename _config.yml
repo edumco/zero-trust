@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 title: Zero Trust
 description: Segurança digital para todos. 
 logo: assets/img/security.png
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
