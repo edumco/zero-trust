@@ -21,9 +21,9 @@ date_format: "%Y-%m-%d"
 enable_copy_code_button: true
 
 author:
-  name   : "José Eduardo Montenegro"
+  name   : "José Eduardo"
   avatar : "/assets/img/profile.jpg"
-  bio    : "QA Analyst | Technical Writer | Blogueirinho"
+  bio    : "QA Analyst e Bogueirinho"
   links:
     - label: "LinkedIn"
       icon: "/assets/img/linkedin.png"
