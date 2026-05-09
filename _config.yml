@@ -20,25 +20,12 @@ breadcrumbs: true
 date_format: "%Y-%m-%d"
 enable_copy_code_button: true
 
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      show_date: true
-
-
 # Configuração da Paginação
 paginate: 5
 paginate_path: "/page:num/"
 
 include:
   - _pages
-
-github:
-  repository_url: "https://github.com/edumco/zero-trust"
 
 plugins:
   - jekyll-paginate
@@ -47,3 +34,16 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
