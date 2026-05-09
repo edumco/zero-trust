@@ -7,6 +7,7 @@ tags:
   - e-mail 
   - recuperação
   - 2FA
+  - guia
 ---
 Não é fácil estar seguro no mundo digital: senhas, códigos de confirmação e configurações nos ajudam mas tornam tudo um pouco mais difícil de usar.
 
@@ -66,6 +67,7 @@ Um e-mail secundário é segunda conta de e-mail que você possa acessar sempre 
 > Configurando autenticação em duas etapas: [Apple](), [Google](https://support.google.com/accounts/answer/185839?hl=pt-BRCom&co=GENIE.Platform%3DAndroid), [Microsoft](), [Proton]()
 
 ---
+![Parabéns](/assets/img/pinguin-parabens.gif)
 
 **Agora que você tem sua identidade digital e que ela está bem protegida vamos pro próximo estágio da nossa aventura: deixar seu celular mais seguro!**
 
