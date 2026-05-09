@@ -1,10 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: "Bem vindos!"
 ---
-
-# Bem Vindos
-
 ## O que é este blog?
 
 Esta página foi criada para que pessoas comuns possam aprender, passo a passo, como proteger: contas, nossos dispositivos e nossos dados pessoais.
