@@ -20,6 +20,18 @@ breadcrumbs: true
 date_format: "%Y-%m-%d"
 enable_copy_code_button: true
 
+author:
+  name   : "José Eduardo Montenegro"
+  avatar : "/assets/img/profile.jpg"
+  bio    : "QA Analyst | Technical Writer | Blogueirinho"
+  links:
+    - label: "LinkedIn"
+      icon: "/assets/img/linkedin.png"
+      url: "https://www.linkedin.com/in/edumco/"
+    - label: "GitHub"
+      icon: "/assets/img/github.png"
+      url: "https://github.com/edumco"
+
 # Configuração da Paginação
 paginate: 5
 paginate_path: "/page:num/"
