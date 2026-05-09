@@ -1,10 +1,13 @@
 ---
-layout: post
 title: "Primeiros passos"
 date: 2026-05-01
-categories: e-mail recuperação 2FA
+categories: 
+  - essencial
+tags:
+  - e-mail 
+  - recuperação
+  - 2FA
 ---
-
 Não é fácil estar seguro no mundo digital: senhas, códigos de confirmação e configurações nos ajudam mas tornam tudo um pouco mais difícil de usar.
 
 Por isso eu criei uma lista de tarefas que vão reforçar a segurança das suas contas e aparelhos (celular, computador...)
