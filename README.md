@@ -1,7 +1,4 @@
----
-layout: default
-title: Bem Vindos
----
+# Bem Vindos
 
 ## O que é este blog?
 
