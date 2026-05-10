@@ -26,10 +26,10 @@ author:
   bio    : "QA Analyst e Bogueirinho"
   links:
     - label: "LinkedIn"
-      icon: "/assets/img/linkedin.png"
+      icon: "fab fa-fw fa-linkedin" # classe css para o ícone do LinkedIn (Font Awesome)
       url: "https://www.linkedin.com/in/edumco/"
     - label: "GitHub"
-      icon: "/assets/img/github.png"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/edumco"
 
 # Configuração da Paginação
