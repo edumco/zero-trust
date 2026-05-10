@@ -21,12 +21,11 @@ A lista está organizada assim:
 
 Depois de seguir as tarefas, você vai entender muito mais sobre como se proteger e deixar sua vida digital mais segura.
 
-Vamos começar!!! 
+Vamos começar!!!
 
 ## 1. Crie ou atualize seu e-mail principal
 
-> [!IMPORTANT]
-> [Antes de começar, vamos criar uma senha segura!!!]()
+> [Antes de começar, vamos criar uma senha segura!!!](/_pages/senha.md)
 
 Seu e-mail principal é como uma identidade que vai ser usado para você se identificar na internet e é fornecido por empresas que vendem serviços digitais e oferecem planos gratuitos dos serviços mais básicos. As principais empresas de e-mail são: Apple, Google, Microsoft e Proton.
 
