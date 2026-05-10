@@ -1,3 +1,5 @@
 main:
   - title: "Guia de Segurança"
     url: /guia/
+  - title: "Manuais"
+    url: /manuais/
