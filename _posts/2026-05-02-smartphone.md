@@ -18,12 +18,13 @@ tags:
 
 ### Atualizando o Android
 
-{% include video id="dh5g-yxVnp0" provider="youtube" %}
+<div style="width: 30%; margin: auto;">
+    {% include video id="dh5g-yxVnp0" provider="youtube" %}
+</div>
 
-[Atualizando Sistema](https://www.youtube.com/watch?v=dh5g-yxVnp0)
-
-![Atualizando aplicativos](https://www.youtube.com/watch?v=iJWZRObQcaI)
-
+<div style="width: 300px; margin: auto;">
+    {% include video id="iJWZRObQcaI" provider="youtube" %}
+</div>
 
 ## 5. Configure a Biometria e o PIN
 
