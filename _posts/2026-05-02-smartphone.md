@@ -18,7 +18,7 @@ tags:
 
 ### Atualizando o Android
 
-{% include youtube.html id="dh5g-yxVnp0" %}
+{% include video id="dh5g-yxVnp0" provider="youtube" %}
 
 [Atualizando Sistema](https://www.youtube.com/watch?v=dh5g-yxVnp0)
 
